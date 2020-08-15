@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "firstname": "King",
+    "lastname": "Zeek",
+    "title": "Philantropist",
+    "department": "Mentoring",
+    "officenum": "787",
+    "extension": 12,
+    "email": "Kingzeek@getright.com"
+  },
+  {
+    "id": 2,
+    "firstname": "Prince",
+    "lastname": "Zeek",
+    "title": "5 yr old King",
+    "department": "5 yr old King",
+    "officenum": "787",
+    "extension": 11,
+    "email": "brubble@companyname.com"
+  },
+  {
+    "id": 3,
+    "firstname": "Andre",
+    "lastname": "Ward",
+    "title": "P4P",
+    "department": "Ass-whoopins",
+    "officenum": "911",
+    "extension": 7,
+    "email": "BoxingGod@inthering.com"
+  },
+  {
+    "id": 4,
+    "firstname": "Floyd",
+    "lastname": "Mayweather",
+    "title": "Money Mayweather",
+    "department": "The Ring",
+    "officenum": "51-0",
+    "extension": 3,
+    "email": "money@mayweather.com"
+  },
+  {
+    "id": 5,
+    "firstname": "Mike",
+    "lastname": "Jordan",
+    "title": "6x all star",
+    "department": "Hooper",
+    "officenum": "911",
+    "extension": 2,
+    "email": "NBA@ismine.com"
+  }
+  
+]
